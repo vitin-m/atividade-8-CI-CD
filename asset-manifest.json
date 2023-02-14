@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atividade-8-CI-CD/static/css/main.2462828c.css",
+    "main.js": "/atividade-8-CI-CD/static/js/main.aa78b027.js",
+    "index.html": "/atividade-8-CI-CD/index.html",
+    "main.2462828c.css.map": "/atividade-8-CI-CD/static/css/main.2462828c.css.map",
+    "main.aa78b027.js.map": "/atividade-8-CI-CD/static/js/main.aa78b027.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2462828c.css",
+    "static/js/main.aa78b027.js"
+  ]
+}
